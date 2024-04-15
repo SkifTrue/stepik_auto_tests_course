@@ -1,3 +1,4 @@
+# Переход на новую вкладку
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import math
